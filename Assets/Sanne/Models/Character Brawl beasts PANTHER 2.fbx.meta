@@ -1,0 +1,1478 @@
+fileFormatVersion: 2
+guid: afcd1a7942f8f2d4caf0540e72ec8b1b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8966197500806149857
+    second: Body|Hammer Down
+  - first:
+      74: -564874262492307317
+    second: Body|Holding Bat
+  - first:
+      74: 5805826669160212711
+    second: Body|Idle Animation
+  - first:
+      74: -2480399435360807806
+    second: Body|Swing
+  - first:
+      74: -1848054865425631134
+    second: Body|Walking
+  - first:
+      74: 5228297068857607061
+    second: Body|Holding Bat (1)
+  - first:
+      74: -7262291157922297971
+    second: Body|Swing (1)
+  - first:
+      74: 1637888807894594868
+    second: Body|Walking (1)
+  - first:
+      74: -546541061540523882
+    second: Walking Elephant
+  - first:
+      74: 2409177581069216427
+    second: Body|Idle Animation Elephant
+  - first:
+      74: 3794473778407815393
+    second: Body|Hammer Down Elephant
+  - first:
+      74: -7719189678575747324
+    second: Body|Hammer Down ARMS
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Body|Walking (1)
+      takeName: Body|Walking
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 0
+      - path: Body/Heel Ik.L
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L/heel.02.L
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L/heel.02.L/heel.02.L_end
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L/toe.L
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L/toe.L/toe.L_end
+        weight: 0
+      - path: Body/Heel IK.R
+        weight: 0
+      - path: Body/Heel IK.R/foot.R
+        weight: 0
+      - path: Body/Heel IK.R/foot.R/heel.02.R
+        weight: 0
+      - path: Body/Heel IK.R/foot.R/heel.02.R/heel.02.R_end
+        weight: 0
+      - path: Body/Heel IK.R/foot.R/toe.R
+        weight: 0
+      - path: Body/Heel IK.R/foot.R/toe.R/toe.R_end
+        weight: 0
+      - path: Body/Knee IK.L
+        weight: 0
+      - path: Body/Knee IK.L/Knee IK.L_end
+        weight: 0
+      - path: Body/Knee IK.R
+        weight: 0
+      - path: Body/Knee IK.R/Knee IK.R_end
+        weight: 0
+      - path: Body/spine
+        weight: 0
+      - path: Body/spine/pelvis.L
+        weight: 0
+      - path: Body/spine/pelvis.L/pelvis.L_end
+        weight: 0
+      - path: Body/spine/pelvis.R
+        weight: 0
+      - path: Body/spine/pelvis.R/pelvis.R_end
+        weight: 0
+      - path: Body/spine/spine.001
+        weight: 0
+      - path: Body/spine/spine.001/Belly Root
+        weight: 0
+      - path: Body/spine/spine.001/Belly Root/Belly2
+        weight: 0
+      - path: Body/spine/spine.001/Belly Root/Belly2/Belly2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L/breast.L_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R/breast.R_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2/Brow.L.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2/Brow.R.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003/Ear.L.003_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003/Ear.R.003_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L/Eye.L_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R/Eye.R_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: Body/spine/thigh.L
+        weight: 0
+      - path: Body/spine/thigh.L/shin.L
+        weight: 0
+      - path: Body/spine/thigh.L/shin.L/shin.L_end
+        weight: 0
+      - path: Body/spine/thigh.R
+        weight: 0
+      - path: Body/spine/thigh.R/shin.R
+        weight: 0
+      - path: Body/spine/thigh.R/shin.R/shin.R_end
+        weight: 0
+      - path: Plane
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Holding Bat
+      takeName: Body|Holding Bat
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Idle Animation
+      takeName: Body|Idle Animation
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Swing
+      takeName: Body|Swing
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Walking
+      takeName: Body|Walking
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Hammer Down
+      takeName: Body|Hammer Down
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walking Elephant
+      takeName: Body|Walking
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Heel Ik.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L/heel.02.L_end
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: Body/Heel IK.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R/heel.02.R_end
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: Body/Knee IK.L
+        weight: 1
+      - path: Body/Knee IK.L/Knee IK.L_end
+        weight: 1
+      - path: Body/Knee IK.R
+        weight: 1
+      - path: Body/Knee IK.R/Knee IK.R_end
+        weight: 1
+      - path: Body/spine
+        weight: 1
+      - path: Body/spine/pelvis.L
+        weight: 1
+      - path: Body/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: Body/spine/pelvis.R
+        weight: 1
+      - path: Body/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: Body/spine/spine.001
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2/Belly2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L/breast.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R/breast.R_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2/Brow.L.2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2/Brow.R.2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003/Ear.L.003_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003/Ear.R.003_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L/Eye.L_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R/Eye.R_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: Body/spine/thigh.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: Body/spine/thigh.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Idle Animation Elephant
+      takeName: Body|Idle Animation
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Heel Ik.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L/heel.02.L_end
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: Body/Heel IK.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R/heel.02.R_end
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: Body/Knee IK.L
+        weight: 1
+      - path: Body/Knee IK.L/Knee IK.L_end
+        weight: 1
+      - path: Body/Knee IK.R
+        weight: 1
+      - path: Body/Knee IK.R/Knee IK.R_end
+        weight: 1
+      - path: Body/spine
+        weight: 1
+      - path: Body/spine/pelvis.L
+        weight: 1
+      - path: Body/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: Body/spine/pelvis.R
+        weight: 1
+      - path: Body/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: Body/spine/spine.001
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2/Belly2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L/breast.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R/breast.R_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2/Brow.L.2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2/Brow.R.2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003/Ear.L.003_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003/Ear.R.003_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L/Eye.L_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R/Eye.R_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: Body/spine/thigh.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: Body/spine/thigh.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Hammer Down Elephant
+      takeName: Body|Hammer Down
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Heel Ik.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L/heel.02.L_end
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: Body/Heel IK.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R/heel.02.R_end
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: Body/Knee IK.L
+        weight: 1
+      - path: Body/Knee IK.L/Knee IK.L_end
+        weight: 1
+      - path: Body/Knee IK.R
+        weight: 1
+      - path: Body/Knee IK.R/Knee IK.R_end
+        weight: 1
+      - path: Body/spine
+        weight: 1
+      - path: Body/spine/pelvis.L
+        weight: 1
+      - path: Body/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: Body/spine/pelvis.R
+        weight: 1
+      - path: Body/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: Body/spine/spine.001
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2/Belly2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L/breast.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R/breast.R_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2/Brow.L.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2/Brow.R.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003/Ear.L.003_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003/Ear.R.003_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L/Eye.L_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R/Eye.R_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: Body/spine/thigh.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: Body/spine/thigh.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Hammer Down ARMS
+      takeName: Body|Hammer Down
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 0
+      - path: Body/Heel Ik.L
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L/heel.02.L
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L/heel.02.L/heel.02.L_end
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L/toe.L
+        weight: 0
+      - path: Body/Heel Ik.L/foot.L/toe.L/toe.L_end
+        weight: 0
+      - path: Body/Heel IK.R
+        weight: 0
+      - path: Body/Heel IK.R/foot.R
+        weight: 0
+      - path: Body/Heel IK.R/foot.R/heel.02.R
+        weight: 0
+      - path: Body/Heel IK.R/foot.R/heel.02.R/heel.02.R_end
+        weight: 0
+      - path: Body/Heel IK.R/foot.R/toe.R
+        weight: 0
+      - path: Body/Heel IK.R/foot.R/toe.R/toe.R_end
+        weight: 0
+      - path: Body/Knee IK.L
+        weight: 0
+      - path: Body/Knee IK.L/Knee IK.L_end
+        weight: 0
+      - path: Body/Knee IK.R
+        weight: 0
+      - path: Body/Knee IK.R/Knee IK.R_end
+        weight: 0
+      - path: Body/spine
+        weight: 0
+      - path: Body/spine/pelvis.L
+        weight: 0
+      - path: Body/spine/pelvis.L/pelvis.L_end
+        weight: 0
+      - path: Body/spine/pelvis.R
+        weight: 0
+      - path: Body/spine/pelvis.R/pelvis.R_end
+        weight: 0
+      - path: Body/spine/spine.001
+        weight: 0
+      - path: Body/spine/spine.001/Belly Root
+        weight: 0
+      - path: Body/spine/spine.001/Belly Root/Belly2
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2/Belly2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L/breast.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R/breast.R_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2/Brow.L.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2/Brow.R.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003/Ear.L.003_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003/Ear.R.003_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L/Eye.L_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R/Eye.R_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: Body/spine/thigh.L
+        weight: 0
+      - path: Body/spine/thigh.L/shin.L
+        weight: 0
+      - path: Body/spine/thigh.L/shin.L/shin.L_end
+        weight: 0
+      - path: Body/spine/thigh.R
+        weight: 0
+      - path: Body/spine/thigh.R/shin.R
+        weight: 0
+      - path: Body/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      - path: Plane
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 1
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Character Brawl beasts PANTHER 2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane
+      parentName: Character Brawl beasts PANTHER 2(Clone)
+      position: {x: 0.000000059604645, y: -0.0000009536743, z: -0.00000011920929}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Character Brawl beasts PANTHER 2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: spine
+      parentName: Body
+      position: {x: 0.00000237328, y: 0.0014740678, z: 0.006377198}
+      rotation: {x: 0.7904553, y: -0.0006163449, z: 0.00047731452, w: 0.6125193}
+      scale: {x: 1, y: 0.99999976, z: 0.9999998}
+    - name: spine.001
+      parentName: spine
+      position: {x: -5.456966e-13, y: 0.0015221961, z: 7.4505804e-11}
+      rotation: {x: 0.012127042, y: -0.00000934556, z: -0.00077950454, w: 0.9999262}
+      scale: {x: 1, y: 1, z: 0.9999997}
+    - name: spine.002
+      parentName: spine.001
+      position: {x: 6.452304e-17, y: 0.002678256, z: 3.352761e-10}
+      rotation: {x: -0.095225394, y: 0.00000011864904, z: 0.000000011330769, w: 0.99545574}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: neck2
+      parentName: spine.002
+      position: {x: 1.4169273e-21, y: 0.0035438268, z: 6.984919e-11}
+      rotation: {x: -0.053245053, y: -0.00000011904553, z: 0.000000006270568, w: 0.9985815}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Neck 1
+      parentName: neck2
+      position: {x: -3.2013133e-12, y: 0.0012914306, z: -0.000013427269}
+      rotation: {x: 0.10940182, y: 9.826805e-12, z: -0.000000026065795, w: 0.99399763}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+    - name: Head
+      parentName: Neck 1
+      position: {x: -5.856426e-17, y: 0.0009403016, z: 7.4505804e-11}
+      rotation: {x: -0.01656103, y: -8.778986e-12, z: 0.0000000039536263, w: 0.9998629}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    - name: Eye.L
+      parentName: Head
+      position: {x: -0.0022193587, y: 0.0046551293, z: 0.0016171365}
+      rotation: {x: 0.647373, y: -0.000018793186, z: -0.000016146143, w: 0.76217335}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Eye.L_end
+      parentName: Eye.L
+      position: {x: -0, y: 0.0015975191, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye.R
+      parentName: Head
+      position: {x: 0.0022193594, y: 0.0046551293, z: 0.0016171357}
+      rotation: {x: 0.647373, y: 0.000019003897, z: 0.000015957865, w: 0.76217335}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Eye.R_end
+      parentName: Eye.R
+      position: {x: -0, y: 0.0015975191, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ear.L.001
+      parentName: Head
+      position: {x: -0.003373556, y: 0.005799154, z: -0.0015332652}
+      rotation: {x: -0.26184657, y: -0.061425466, z: 0.505119, w: 0.820072}
+      scale: {x: 1.0000002, y: 1.0000004, z: 0.99999994}
+    - name: Ear.L.002
+      parentName: Ear.L.001
+      position: {x: 0.0000000018870923, y: 0.0005693832, z: 0}
+      rotation: {x: 0.10083566, y: -0.0061167353, z: -0.03384002, w: 0.99430865}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1}
+    - name: Ear.L.003
+      parentName: Ear.L.002
+      position: {x: -8.649658e-10, y: 0.0010264061, z: -1.4901161e-10}
+      rotation: {x: -0.0016343665, y: -0.00049186207, z: -0.042075273, w: 0.999113}
+      scale: {x: 0.99999964, y: 0.9999999, z: 1.0000002}
+    - name: Ear.L.003_end
+      parentName: Ear.L.003
+      position: {x: -0, y: 0.002043378, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ear.R.001
+      parentName: Head
+      position: {x: 0.003373555, y: 0.005799154, z: -0.0015332667}
+      rotation: {x: -0.26184666, y: 0.0614256, z: -0.50511885, w: 0.82007205}
+      scale: {x: 0.99999994, y: 1, z: 0.99999976}
+    - name: Ear.R.002
+      parentName: Ear.R.001
+      position: {x: -0.0000000012165401, y: 0.0005693821, z: 0}
+      rotation: {x: 0.100835584, y: 0.00611678, z: 0.033839993, w: 0.99430865}
+      scale: {x: 1.0000002, y: 1, z: 0.99999976}
+    - name: Ear.R.003
+      parentName: Ear.R.002
+      position: {x: -3.1199304e-10, y: 0.0010264048, z: 0}
+      rotation: {x: -0.0016344336, y: 0.0004918537, z: 0.042075347, w: 0.99911296}
+      scale: {x: 1, y: 0.9999998, z: 1.0000004}
+    - name: Ear.R.003_end
+      parentName: Ear.R.003
+      position: {x: -0, y: 0.002043378, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Brow.L
+      parentName: Head
+      position: {x: -0.0029427018, y: 0.006441047, z: 0.0023325316}
+      rotation: {x: -0.107075326, y: -0.49671373, z: -0.654336, w: 0.56004894}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: Brow.L.2
+      parentName: Brow.L
+      position: {x: 7.45058e-10, y: 0.00097417244, z: 0.0000000010430813}
+      rotation: {x: -0.18759353, y: 0.013830064, z: -0.019164627, w: 0.98196244}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.99999964}
+    - name: Brow.L.2_end
+      parentName: Brow.L.2
+      position: {x: -0, y: 0.0009930436, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Brow.R
+      parentName: Head
+      position: {x: 0.0029427025, y: 0.006441047, z: 0.0023325302}
+      rotation: {x: -0.10707491, y: 0.49671397, z: 0.654336, w: 0.5600488}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Brow.R.2
+      parentName: Brow.R
+      position: {x: -5.9604643e-10, y: 0.0009741717, z: -5.2154064e-10}
+      rotation: {x: -0.18759368, y: -0.013829838, z: 0.019164626, w: 0.9819624}
+      scale: {x: 1.0000006, y: 1.0000001, z: 0.9999998}
+    - name: Brow.R.2_end
+      parentName: Brow.R.2
+      position: {x: -0, y: 0.0009930436, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.L
+      parentName: neck2
+      position: {x: -0.00018299982, y: -0.00004639821, z: 0.0007421984}
+      rotation: {x: -0.4595193, y: 0.46794403, z: 0.37017748, w: 0.65790504}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.9999999}
+    - name: upper_arm.L
+      parentName: shoulder.L
+      position: {x: -0.000048977516, y: 0.0025617548, z: -0.00028734485}
+      rotation: {x: -0.017283402, y: -0.6762286, z: 0.22401845, w: 0.7015924}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000005}
+    - name: forearm.L
+      parentName: upper_arm.L
+      position: {x: 2.9802322e-10, y: 0.0032710943, z: -2.9802322e-10}
+      rotation: {x: 0.033583567, y: -0.009409128, z: -0.023026867, w: 0.9991264}
+      scale: {x: 0.9999998, y: 0.9999997, z: 1.0000007}
+    - name: hand.L
+      parentName: forearm.L
+      position: {x: -6.4319466e-10, y: 0.0027085727, z: -8.381903e-11}
+      rotation: {x: -0.045582976, y: -0.08389776, z: 0.028409136, w: 0.9950258}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
+    - name: hand.L_end
+      parentName: hand.L
+      position: {x: -0, y: 0.0028059673, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.R
+      parentName: neck2
+      position: {x: 0.00018300019, y: -0.000046398207, z: 0.0007421982}
+      rotation: {x: -0.45951954, y: -0.46794397, z: -0.37017736, w: 0.65790504}
+      scale: {x: 1, y: 0.99999976, z: 0.99999994}
+    - name: upper_arm.R
+      parentName: shoulder.R
+      position: {x: 0.000048977377, y: 0.0025617534, z: -0.00028734453}
+      rotation: {x: 0.017283645, y: -0.6762286, z: 0.22401822, w: -0.70159245}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: forearm.R
+      parentName: upper_arm.R
+      position: {x: -5.587935e-10, y: 0.003271096, z: 7.4505804e-11}
+      rotation: {x: 0.033583626, y: 0.009409007, z: 0.023026861, w: 0.9991263}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1.0000008}
+    - name: hand.R
+      parentName: forearm.R
+      position: {x: 3.72529e-10, y: 0.0027085738, z: -7.45058e-10}
+      rotation: {x: -0.045582924, y: 0.08389784, z: -0.02840902, w: 0.9950258}
+      scale: {x: 1.0000005, y: 1.0000001, z: 0.99999964}
+    - name: hand.R_end
+      parentName: hand.R
+      position: {x: -0, y: 0.0028059673, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: breast.L
+      parentName: neck2
+      position: {x: -0.0012713167, y: -0.000594869, z: 0.00095833436}
+      rotation: {x: 0.000000049005603, y: 0.69974405, z: 0.7143937, w: -0.00000005287119}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: breast.L_end
+      parentName: breast.L
+      position: {x: -0, y: 0.0010343164, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: breast.R
+      parentName: neck2
+      position: {x: 0.0012713172, y: -0.000594869, z: 0.0009583337}
+      rotation: {x: 0.000000049005603, y: 0.69974405, z: 0.7143937, w: -0.00000005287119}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: breast.R_end
+      parentName: breast.R
+      position: {x: -0, y: 0.0010343164, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Belly Root
+      parentName: spine.001
+      position: {x: 4.769091e-10, y: 0.0007341548, z: 0.001999984}
+      rotation: {x: 0.59518296, y: -0.0000030666138, z: -0.0000024131875, w: 0.8035903}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: Belly2
+      parentName: Belly Root
+      position: {x: -8.795521e-15, y: 0.00086717657, z: -3.8184225e-10}
+      rotation: {x: 0.10271887, y: 0.0000022544375, z: -0.0000005756853, w: 0.99471045}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Belly2_end
+      parentName: Belly2
+      position: {x: -0, y: 0.0031531611, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.L
+      parentName: spine
+      position: {x: -0.0000023732775, y: 0.0000000033900147, z: 2.9802322e-10}
+      rotation: {x: -0.33630487, y: 0.7040771, z: 0.33929944, w: 0.52540493}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: pelvis.L_end
+      parentName: pelvis.L
+      position: {x: -0, y: 0.003920677, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.R
+      parentName: spine
+      position: {x: -0.0000023732775, y: 0.0000000033900147, z: 2.9802322e-10}
+      rotation: {x: -0.33740225, y: -0.7035518, z: -0.34011802, w: 0.5248755}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: pelvis.R_end
+      parentName: pelvis.R
+      position: {x: -0, y: 0.003920677, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.L
+      parentName: spine
+      position: {x: -0.0035462903, y: 0.0007137136, z: 0.00025942465}
+      rotation: {x: 0.97160816, y: 0.01137288, z: -0.01061384, w: 0.2360837}
+      scale: {x: 1, y: 1.0000004, z: 0.999999}
+    - name: shin.L
+      parentName: thigh.L
+      position: {x: -5.5879353e-11, y: 0.0038575043, z: -2.188608e-10}
+      rotation: {x: 0.3217483, y: 0.093697846, z: -0.003840415, w: 0.9421699}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000006}
+    - name: shin.L_end
+      parentName: shin.L
+      position: {x: -0, y: 0.0028568187, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.R
+      parentName: spine
+      position: {x: 0.0035437522, y: 0.0007026606, z: 0.0002594211}
+      rotation: {x: 0.9715893, y: -0.012887556, z: 0.010245257, w: 0.23609994}
+      scale: {x: 1.0000001, y: 1.0000005, z: 0.9999982}
+    - name: shin.R
+      parentName: thigh.R
+      position: {x: -2.7008354e-10, y: 0.0038575046, z: -1.5250406e-10}
+      rotation: {x: 0.3217484, y: -0.09369787, z: 0.0038403617, w: 0.9421698}
+      scale: {x: 1, y: 0.9999998, z: 1.0000006}
+    - name: shin.R_end
+      parentName: shin.R
+      position: {x: -0, y: 0.0028568187, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Heel Ik.L
+      parentName: Body
+      position: {x: -0.002237365, y: 0.0010132956, z: 0.0014191335}
+      rotation: {x: 0.00000008940697, y: -0.07770172, z: -0.000000007450581, w: 0.99697673}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: foot.L
+      parentName: Heel Ik.L
+      position: {x: 4.4703483e-10, y: -0.0000000012665987, z: -0.0000000019371509}
+      rotation: {x: 0.9555023, y: -0.11666885, z: -0.10032482, w: -0.2516718}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: toe.L
+      parentName: foot.L
+      position: {x: 6.0535965e-11, y: 0.0019160789, z: -1.4028045e-10}
+      rotation: {x: 0.069448225, y: 0.96505034, z: -0.25064623, w: -0.032113723}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000004}
+    - name: toe.L_end
+      parentName: toe.L
+      position: {x: -0, y: 0.0027807371, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel.02.L
+      parentName: foot.L
+      position: {x: 0.0006182585, y: -0.00034726024, z: 0.0012833397}
+      rotation: {x: -0.64721596, y: 0.71367955, z: -0.1161001, w: -0.24144115}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: heel.02.L_end
+      parentName: heel.02.L
+      position: {x: -0, y: 0.00079999986, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Heel IK.R
+      parentName: Body
+      position: {x: 0.002237365, y: 0.0010132956, z: 0.0014191335}
+      rotation: {x: 0.00000008940697, y: 0.07770172, z: 0.000000007450581, w: 0.99697673}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: foot.R
+      parentName: Heel IK.R
+      position: {x: -5.0291415e-10, y: -0.000000001117587, z: -0.0000000016391277}
+      rotation: {x: 0.9555023, y: 0.11666885, z: 0.10032482, w: -0.2516718}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: toe.R
+      parentName: foot.R
+      position: {x: -0, y: 0.0019160789, z: -1.0302756e-10}
+      rotation: {x: -0.069448225, y: 0.96505034, z: -0.25064623, w: 0.032113723}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000004}
+    - name: toe.R_end
+      parentName: toe.R
+      position: {x: -0, y: 0.0027807371, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel.02.R
+      parentName: foot.R
+      position: {x: -0.0006182584, y: -0.00034726024, z: 0.0012833397}
+      rotation: {x: -0.64721596, y: -0.71367955, z: 0.1161001, w: -0.24144115}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: heel.02.R_end
+      parentName: heel.02.R
+      position: {x: -0, y: 0.00079999986, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knee IK.L
+      parentName: Body
+      position: {x: -0.0031259034, y: -0.0039897705, z: 0.0035613938}
+      rotation: {x: 0.9994006, y: -0.00010163151, z: 0.034494225, w: -0.0029343367}
+      scale: {x: 1.0000001, y: 1, z: 1.0017618}
+    - name: Knee IK.L_end
+      parentName: Knee IK.L
+      position: {x: -0, y: 0.0023280499, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knee IK.R
+      parentName: Body
+      position: {x: 0.0031259034, y: -0.0039897705, z: 0.0035613938}
+      rotation: {x: 0.9994006, y: 0.00010163151, z: -0.034494225, w: -0.0029343367}
+      scale: {x: 1.0000001, y: 1, z: 1.0017618}
+    - name: Knee IK.R_end
+      parentName: Knee IK.R
+      position: {x: -0, y: 0.0023280499, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: e87c813a676e45540a356888c2e8966a
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -8064736400689965793
+    second: Body|Dash
+  - first:
+      74: 5805826669160212711
+    second: Body|Idle Animation
+  - first:
+      74: 691272343134591009
+    second: Body|Jump
+  - first:
+      74: -1848054865425631134
+    second: Body|Walking
+  - first:
+      74: -5576017344947380439
+    second: Body|Dash Elephant
+  - first:
+      74: 3419942924655758773
+    second: Body|Jump (1)
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Body|Dash
+      takeName: Body|Dash
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Idle Animation
+      takeName: Body|Idle Animation
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Jump
+      takeName: Body|Jump
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Walking
+      takeName: Body|Walking
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Dash Elephant
+      takeName: Body|Dash
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Heel Ik.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L/heel.02.L_end
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: Body/Heel IK.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R/heel.02.R_end
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: Body/Knee IK.L
+        weight: 1
+      - path: Body/Knee IK.L/Knee IK.L_end
+        weight: 1
+      - path: Body/Knee IK.R
+        weight: 1
+      - path: Body/Knee IK.R/Knee IK.R_end
+        weight: 1
+      - path: Body/spine
+        weight: 1
+      - path: Body/spine/pelvis.L
+        weight: 1
+      - path: Body/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: Body/spine/pelvis.R
+        weight: 1
+      - path: Body/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: Body/spine/spine.001
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2/Belly2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L/breast.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R/breast.R_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2/Brow.L.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2/Brow.R.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003/Ear.L.003_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003/Ear.R.003_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L/Eye.L_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R/Eye.R_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: Body/spine/thigh.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: Body/spine/thigh.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Body|Jump (1)
+      takeName: Body|Jump
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Heel Ik.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/heel.02.L/heel.02.L_end
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L
+        weight: 1
+      - path: Body/Heel Ik.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: Body/Heel IK.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/heel.02.R/heel.02.R_end
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R
+        weight: 1
+      - path: Body/Heel IK.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: Body/Knee IK.L
+        weight: 1
+      - path: Body/Knee IK.L/Knee IK.L_end
+        weight: 1
+      - path: Body/Knee IK.R
+        weight: 1
+      - path: Body/Knee IK.R/Knee IK.R_end
+        weight: 1
+      - path: Body/spine
+        weight: 1
+      - path: Body/spine/pelvis.L
+        weight: 1
+      - path: Body/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: Body/spine/pelvis.R
+        weight: 1
+      - path: Body/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: Body/spine/spine.001
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2
+        weight: 1
+      - path: Body/spine/spine.001/Belly Root/Belly2/Belly2_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.L/breast.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/breast.R/breast.R_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.L/Brow.L.2/Brow.L.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Brow.R/Brow.R.2/Brow.R.2_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.L.001/Ear.L.002/Ear.L.003/Ear.L.003_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Ear.R.001/Ear.R.002/Ear.R.003/Ear.R.003_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.L/Eye.L_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/Neck 1/Head/Eye.R/Eye.R_end
+        weight: 0
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Body/spine/spine.001/spine.002/neck2/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: Body/spine/thigh.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L
+        weight: 1
+      - path: Body/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: Body/spine/thigh.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R
+        weight: 1
+      - path: Body/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

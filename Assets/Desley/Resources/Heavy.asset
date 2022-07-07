@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feac4c417d225f049936264810dca4dd, type: 3}
+  m_Name: Heavy
+  m_EditorClassIdentifier: 
+  itemName: Heavy
+  description: 
+  obj: {fileID: 8118706331645515608, guid: 811fe49726397ff4583c03462cb310ed, type: 3}
+  icon: {fileID: 0}
+  pickupItem: {fileID: -6049366769295789791, guid: 19c0e6daaf909bf4890b362f758f418a, type: 3}
+  duration: 5
+  kbMultiplier: 0.5
